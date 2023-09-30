@@ -1,6 +1,6 @@
 # PavlinVasilev
 Hi, I am Pavlin Vasilev <br>
-[![Instagram]([URL_на_иконата](https://www.instagram.com/))]([URL_на_линка](https://www.instagram.com/jus7shad0w/)) [Discord](https://discord.com/invite/v3DqNNY) [LinkedIn](https://www.linkedin.com/in/pavlin-vasilev-204a981b6/)<br>
+[Instagram](https://www.instagram.com/jus7shad0w/) [Discord](https://discord.com/invite/v3DqNNY) [LinkedIn](https://www.linkedin.com/in/pavlin-vasilev-204a981b6/)<br>
 🎓 Education
 Software University - Software Engineering (in progress)<br>
 💻 Work
