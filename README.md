@@ -6,9 +6,5 @@ Software University - Software Engineering (in progress)
 💻 Work
 Comming soon 
 
-📫 How to reach me:
-You can find all of my social media accounts on my LinkTree: https://linktr.ee/AlexandrinaMehandzhiyska
-
-
 🤹 Other interests:
 Playing music, Singing , Gaming, Moding game files in LUA
