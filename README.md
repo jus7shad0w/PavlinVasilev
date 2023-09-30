@@ -1,6 +1,6 @@
 # PavlinVasilev
 Hi, I am Pavlin Vasilev <br>
-[Pavln Vasilev discord](https://discord.com/invite/v3DqNNY) [Pavlin Vasilev LinkedIn](https://www.linkedin.com/in/pavlin-vasilev-204a981b6/)
+[Pavln Vasilev discord](https://discord.com/invite/v3DqNNY) [Pavlin Vasilev LinkedIn](https://www.linkedin.com/in/pavlin-vasilev-204a981b6/)<br>
 🎓 Education
 Software University - Software Engineering (in progress)
 💻 Work
