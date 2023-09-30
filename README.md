@@ -1,5 +1,5 @@
 # PavlinVasilev
-Hi, I am Pavlin Vasilev 🇧🇬
+Hi, I am Pavlin Vasilev
 <a href="https://www.instagram.com/jus7shad0w/" class="instagram-link">
   Pavlin Vasilev Instagram
 </a>
