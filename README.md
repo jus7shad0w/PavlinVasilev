@@ -7,4 +7,4 @@ Software University - Software Engineering (in progress)<br>
 Comming soon <br>
 
 🤹 Other interests:<br>
-Playing music, Singing , Gaming, Moding game files in LUA
+Playing music, Moding game files in LUA
